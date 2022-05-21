@@ -2,7 +2,7 @@
 
 Application Link: https://simplynote.netlify.app/
 
-It is note taking app where notes are stored in local storage for reading later. 
+It is a note taking app where notes are stored in local storage for reading later. 
 
 Features
 1. Toggle between light mode and dark mode.
